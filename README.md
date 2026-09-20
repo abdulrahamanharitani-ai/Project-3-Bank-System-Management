@@ -119,7 +119,7 @@ int main()
 
 | Main Menu Screen | Return to Main Menu |
 |:---:|:---:|
-| ![Main Menu](screenshots/Main%20Menu%20Screen.png) | ![Return Main](screenshots/Return%20to%20Main%20Menu.png) |
+| ![Main Menu](screenshots/Main%20Menu%20Screen.png) | ![Return](screenshots/Return%20to%20Main%20Menu.png) |
 
 ### 👥 Clients Management
 
@@ -165,13 +165,13 @@ int main()
 
 | Return to Main Menu (from Manage Users) |
 |:---:|
-| ![Return](screenshots/Return%20to%20Main%20from%20Manage%20User%20Menu.png) |
+| ![Return](screenshots/Return-to-Main-Menu.png) |
 
 ### 🚫 Access Denied
 
 | User1 Trying to Access Manage Users Without Permission |
 |:---:|
-| ![Access Denied](screenshots/User1%20Trying%20to%20reach%20Manage%20Users%20Menu%20but%20he%20can%27t%20because%20he%20has%20no%20permission.png) |
+| ![Access Denied](screenshots/Access-Denied.png) |
 
 ## Requirements
 Visual Studio 2022 or any C++ compiler supporting C++11 or later.
