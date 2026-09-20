@@ -103,6 +103,76 @@ int main()
 }
 ```
 
+## Screenshots
+
+### 🔐 Login System
+
+| Login Screen | Login with User1 |
+|:---:|:---:|
+| ![Login](screenshots/Login%20Screen.png) | ![Login User1](screenshots/Login%20with%20User1.png) |
+
+| Invalid Login | Logout |
+|:---:|:---:|
+| ![Invalid](screenshots/Trying%20to%20Login%20with%20incorrect%20Username%20and%20Password.png) | ![Logout](screenshots/Logout.png) |
+
+### 📋 Main Menu
+
+| Main Menu Screen | Return to Main Menu |
+|:---:|:---:|
+| ![Main Menu](screenshots/Main%20Menu%20Screen.png) | ![Return Main](screenshots/Return%20to%20Main%20Menu.png) |
+
+### 👥 Clients Management
+
+| Client List | Add New Client |
+|:---:|:---:|
+| ![List](screenshots/Client%20List.png) | ![Add](screenshots/Add%20New%20Client%20Screen.png) |
+
+| Delete Client | Update Client |
+|:---:|:---:|
+| ![Delete](screenshots/Delete%20Client%20Screen.png) | ![Update](screenshots/Update%20Client%20Screen.png) |
+
+| Find Client |
+|:---:|
+| ![Find](screenshots/Find%20Client%20Screen.png) |
+
+### 💰 Transactions
+
+| Transactions Menu | Deposit |
+|:---:|:---:|
+| ![Menu](screenshots/Transactions%20Menu%20Screen.png) | ![Deposit](screenshots/Deposit%20Screen.png) |
+
+| Withdraw | Total Balances |
+|:---:|:---:|
+| ![Withdraw](screenshots/Withdraw%20Screen.png) | ![Balances](screenshots/Total%20Balances%20List.png) |
+
+### 👤 Manage Users
+
+| Manage Users Menu | User List |
+|:---:|:---:|
+| ![Menu](screenshots/Manage%20Users.png) | ![List](screenshots/User%20List.png) |
+
+| Add New User | Delete User |
+|:---:|:---:|
+| ![Add](screenshots/Add%20New%20User%20Screen.png) | ![Delete](screenshots/Delete%20User%20Screen.png) |
+
+| Cannot Delete Admin | Update User (1) |
+|:---:|:---:|
+| ![Admin](screenshots/Delete%20User%20With%20Admin%20Case.png) | ![Update1](screenshots/Update%20User%20Screen1.png) |
+
+| Update User (2) | Find User |
+|:---:|:---:|
+| ![Update2](screenshots/Update%20User%20Screen2.png) | ![Find](screenshots/Find%20User%20Screen.png) |
+
+| Return to Main Menu (from Manage Users) |
+|:---:|
+| ![Return](screenshots/Return%20to%20Main%20from%20Manage%20User%20Menu.png) |
+
+### 🚫 Access Denied
+
+| User1 Trying to Access Manage Users Without Permission |
+|:---:|
+| ![Access Denied](screenshots/User1%20Trying%20to%20reach%20Manage%20Users%20Menu%20but%20he%20can't%20because%20he%20has%20no%20permission.png) |
+
 ## Requirements
 Visual Studio 2022 or any C++ compiler supporting C++11 or later.
 
