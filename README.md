@@ -171,7 +171,7 @@ int main()
 
 | User1 Trying to Access Manage Users Without Permission |
 |:---:|
-| ![Access Denied](screenshots/User1%20Trying%20to%20reach%20Manage%20Users%20Menu%20but%20he%20can't%20because%20he%20has%20no%20permission.png) |
+| ![Access Denied](screenshots/User1%20Trying%20to%20reach%20Manage%20Users%20Menu%20but%20he%20can%27t%20because%20he%20has%20no%20permission.png) |
 
 ## Requirements
 Visual Studio 2022 or any C++ compiler supporting C++11 or later.
